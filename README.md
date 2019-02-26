@@ -3,6 +3,8 @@ The new Microsoft Regional Directors site is https://rd.microsoft.com
 
 msrd.io
 =======
+> *NOTE: This is the source for an old version of the site, not the current one run by Microsoft. This is only kept here for archiving purposes.*
+
 The web site for the Microsoft Regional Directors (MS RD), a global community of independent Microsoft ambasadors.
 
 The Microsoft Regional Directors program is an elite group of 130 technology professionals recognized worldwide by Microsoft for their leadership, presentation skills, and knowledge of emerging technologies, technology strategy and business.
